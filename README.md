@@ -1,7 +1,5 @@
 # COM-Zombies 2 Overhauled Edition | By Nick 
 
-![Game](https://github.com/user-attachments/assets/ad67eb40-a19c-445e-b925-b559d25f1b3e)
-
 ![Android](https://img.shields.io/badge/Platform-Android-green?logo=android&style=flat-square)
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows&style=flat-square)
 ![Release](https://img.shields.io/badge/Release-v1.4.1-orange?style=flat-square)
