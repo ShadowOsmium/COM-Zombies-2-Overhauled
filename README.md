@@ -7,7 +7,7 @@
 ![Release](https://img.shields.io/badge/Release-v1.4.1-orange?style=flat-square)
 ![Next Release](https://img.shields.io/badge/Next--Up-v2.6.9-yellow?style=flat-square)
 
-# This mod is now outdated. Please use this updated link to the new version (Coming out in October): [itch.io Game Page](https://shadowosmium.itch.io/call-of-mini-zombies-2-resurrected)
+# This mod is now outdated. Please use this updated link to the new version: [itch.io Game Page](https://shadowosmium.itch.io/call-of-mini-zombies-2-resurrected)
 ## What is this mod about?
 
 This mod aims to be the best rebalance and content mod for all types of players! Once you sink into the game, you won’t want to return to the original. 
